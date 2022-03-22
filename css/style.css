@@ -220,6 +220,9 @@ header .follow a:hover {
 
 .home .image img {
   width: 100%;
+  border-radius: 50%;
+  box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 10%);
+  padding: 10px;
 }
 
 .home .content {
